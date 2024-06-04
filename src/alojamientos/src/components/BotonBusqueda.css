@@ -1,0 +1,13 @@
+.buscar {
+  width: max-content;
+  background-color: #ECA555;
+  border-style: none;
+  border-radius: 50px;
+  padding: 10px 25px;
+  font-size: 1em;
+  position: absolute;
+  bottom: 5px;
+  right: -20px;
+  color: #ece4dd;
+  font-weight: bold;
+}

@@ -1,2 +1,2 @@
-# app_alojamientos
-Entrega TP Alojamientos con React
+# AplicacionAlojamientos
+Aplicación de empresa de alojamientos, creada con create-react-app. Con formulario administrativo para envió y recepción de información de BBDD a través de API

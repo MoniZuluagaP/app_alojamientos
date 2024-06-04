@@ -1,0 +1,47 @@
+.barraNavegacion {
+  margin: 0;
+  background-color: #A25733;
+  display: flex;
+  width: 85vw;
+  justify-content: right;
+}
+
+.barraNavegacion ul {
+  align-content: center;
+  border-bottom-color: #ece4dd;
+  border-bottom-style: solid;
+  position: relative;
+
+}
+.barraNavegacion li {
+  display: inline-block;
+  color: white;
+  margin: 5px;
+  padding: 20px;
+  text-decoration: none;
+}
+
+.barraNavegacion li:hover {
+  background-color: #ece4dd;
+  border-radius: 30px;
+  padding: 20px;
+  color: #A25733;
+}
+
+.barraNavegacion .NavLink {
+  color: white;
+  text-decoration: none;
+}
+
+.barraNavegacion .NavLink:hover {
+  color: #A25733;
+  font-weight: bold;
+}
+
+.logoBarra{
+  position:absolute;
+  left: -100px;
+  top: 16px;
+  width: 80px;
+
+}
